@@ -8,3 +8,8 @@
 *Extracuriculare*
 -Cursuri de Game-Designe
 
+## Hobby
+
+-Programarea
+-Video-jocuri
+-Filmuri
