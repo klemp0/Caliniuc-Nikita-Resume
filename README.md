@@ -10,6 +10,6 @@
 
 ## Hobby
 
--Programarea
--Video-jocuri
--Filmuri
+- Programarea
+- Video-jocuri
+- Filmuri
