@@ -6,10 +6,17 @@
 *Specialitate:*Dzvoltarea aplicatiilor WEB
 
 *Extracuriculare*
--Cursuri de Game-Designe
+- Cursuri de Game-Designe
 
 ## Hobby
 
 - Programarea
 - Video-jocuri
 - Filmuri
+
+## Domiciliu
+
+- Chisinau
+- Rascani
+- Str. M. Basarab 
+- Ap 33
